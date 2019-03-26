@@ -1,5 +1,7 @@
 # go-test-incrementor
 
+[![Build Status](https://travis-ci.org/d-bo/go-test-incrementor.svg?branch=master)](https://travis-ci.org/d-bo/go-test-incrementor)
+
 ```sh
 # Quickstart
 export GOPATH=`pwd`
